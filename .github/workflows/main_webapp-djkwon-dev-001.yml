@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'webapp-djkwon-dev-001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5E3B7ED38ED461B8C4D83B73AE6461E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F25E70509F394CF3B5BA1A6544851810 }}
           package: .
